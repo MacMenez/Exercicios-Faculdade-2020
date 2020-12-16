@@ -1,7 +1,7 @@
 # Exercicios-Faculdade 2020
  Exercicios de fixacao do 1° periodo da faculdade
 
-# My Projects
+## My Projects
  Ideias for Pratice 
 
 Este repositório foi criado para publicação de projetos desenvolvidos durante o Curso Técnico em Informática e Engenharia da Computação.
