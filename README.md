@@ -1,3 +1,6 @@
+# FACULDADE
+ Local para publicar projetos desenvolvidos durante o período estudos de Bachare em Engenharia da Computação
+
 # Exercicios-Faculdade 2020
  Exercicios de fixacao do 1° periodo da faculdade
 
